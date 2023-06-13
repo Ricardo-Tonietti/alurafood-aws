@@ -1,0 +1,2 @@
+# alurafood-aws
+aws stack
